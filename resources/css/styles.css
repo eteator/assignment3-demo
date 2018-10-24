@@ -66,6 +66,11 @@ header nav li {
     padding: 1em;
 }
 
+footer nav ul {
+    opacity: .5;
+}
+
+
 main {
     display: flex;
     align-items: center;
